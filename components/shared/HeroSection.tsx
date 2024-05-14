@@ -57,11 +57,10 @@ export default function HeroSection() {
         <div className="z-10 relative mt-16 md:w-[70%] w-[80%] text-[#313C58B2] flex-col flex gap-10">
           <div className=" flex flex-col place-items-center gap-16 ">
             <Image
-              src="/assets/images/hero/ourStory.png"
+              src="/assets/images/hero/OurStory.png"
               alt="Our Story"
               height={50}
               width={160}
-              className="   object-contain   "
             />
             <p className=" text-center">
               ERNX is a mobile incentive app crafted to{" "}
