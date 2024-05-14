@@ -5,11 +5,11 @@ import TeamSection from "@/components/shared/TeamSection";
 
 export default function Home() {
   return (
-    <main className=" relative flex flex-col  place-items-center ">
+    <main className=" relative flex flex-col overflow-hidden gap-16  place-items-center ">
       <HeroSection />
       <AboutCompany />
       <TeamSection />
-      <ContactUsform />
+      {/* <ContactUsform /> */}
     </main>
   );
 }

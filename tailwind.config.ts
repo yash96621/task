@@ -13,6 +13,24 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily: {
+        "mat-saleh": ["Mat Saleh", "sans-serif"],
+      },
+      colors: {
+        "custom-blue": "#313C58",
+      },
+      width: {
+        "79": "79px",
+      },
+      height: {
+        "30": "30px",
+      },
+      fontSize: {
+        "32": "32px",
+      },
+      lineHeight: {
+        "30": "30px",
+      },
     },
   },
   plugins: [],
