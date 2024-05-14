@@ -48,7 +48,7 @@ export default function TeamSection() {
             <p className=" font-light">Co-Founder & CEO, Paediatric Dentist</p>
             <div className=" flex gap-3 place-items-center">
               <Image
-                src="/assets/svgs/icons/LinkdIn.svg"
+                src="/assets/svgs/Icons/LinkdIn.svg"
                 height={17}
                 width={17}
                 alt="linkedIn"
@@ -80,7 +80,7 @@ export default function TeamSection() {
             <p className=" font-light">Co-Founder</p>
             <div className=" flex gap-3 place-items-center">
               <Image
-                src="/assets/svgs/icons/LinkdIn.svg"
+                src="/assets/svgs/Icons/LinkdIn.svg"
                 height={17}
                 width={17}
                 alt="linkedIn"
@@ -112,7 +112,7 @@ export default function TeamSection() {
             <p className=" font-light">Co-Founder</p>
             <div className=" flex gap-3 place-items-center">
               <Image
-                src="/assets/svgs/icons/LinkdIn.svg"
+                src="/assets/svgs/Icons/LinkdIn.svg"
                 height={17}
                 width={17}
                 alt="linkedIn"

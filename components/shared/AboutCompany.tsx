@@ -56,11 +56,10 @@ export default function AboutCompany() {
             <div className=" flex flex-col gap-4">
               <div className=" flex gap-4  place-items-center ">
                 <Image
-                  src="/assets/svgs/icons/Trophi.svg"
+                  src="/assets/svgs/Icons/Trophi.svg"
                   alt="Trophie"
                   height={35}
                   width={35}
-                  className=" object-contain"
                 />
 
                 <p className=" font-light">
@@ -70,8 +69,8 @@ export default function AboutCompany() {
               </div>
               <div className=" flex gap-4 place-items-center  ">
                 <Image
-                  src="/assets/svgs/icons/StudentCap.svg"
-                  alt="Trophie"
+                  src="/assets/svgs/Icons/StudentCap.svg"
+                  alt="StudentCap"
                   height={35}
                   width={35}
                 />
@@ -127,7 +126,7 @@ export default function AboutCompany() {
             <div className=" flex flex-col gap-5">
               <div className=" flex gap-4 place-items-start">
                 <Image
-                  src="/assets/svgs/icons/Res.svg"
+                  src="/assets/svgs/Icons/Res.svg"
                   alt="Responsible icon"
                   height={36}
                   width={36}
@@ -143,7 +142,7 @@ export default function AboutCompany() {
               </div>
               <div className=" flex gap-4 place-items-start">
                 <Image
-                  src="/assets/svgs/icons/Motivate.svg"
+                  src="/assets/svgs/Icons/Motivate.svg"
                   alt="Motivate icon"
                   height={36}
                   width={36}
@@ -160,7 +159,7 @@ export default function AboutCompany() {
               </div>
               <div className=" flex gap-4 place-items-start">
                 <Image
-                  src="/assets/svgs/icons/Learn.svg"
+                  src="/assets/svgs/Icons/Learn.svg"
                   alt="Learn icon"
                   height={36}
                   width={36}
@@ -176,7 +175,7 @@ export default function AboutCompany() {
               </div>
               <div className=" flex gap-4 place-content-start">
                 <Image
-                  src="/assets/svgs/icons/Healthy.svg"
+                  src="/assets/svgs/Icons/Healthy.svg"
                   alt="Healthy icon"
                   height={36}
                   width={36}
