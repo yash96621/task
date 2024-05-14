@@ -5,7 +5,7 @@ import TeamSection from "@/components/shared/TeamSection";
 
 export default function Home() {
   return (
-    <main className=" relative flex flex-col lg:w-[89%] md:px-9 max-md:px-5 place-items-center ">
+    <main className=" relative flex flex-col  place-items-center ">
       <HeroSection />
       <AboutCompany />
       <TeamSection />
@@ -13,3 +13,5 @@ export default function Home() {
     </main>
   );
 }
+
+// lg:w-[89%] md:px-9 max-md:px-5
